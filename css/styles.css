@@ -90,13 +90,13 @@ input, select {
 
 /* Toolbar*/
 
-#toolbar {
+.toolbar {
     padding: 1rem;
     border-bottom: 1px solid #ccc;
     display: flex;
 }
 
-#toolbar h4 {
+.toolbar h4 {
     margin-bottom: .5rem;
 }
 
