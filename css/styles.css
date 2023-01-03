@@ -7,14 +7,14 @@
 }
 
 body {
-    background-image: url("../imgs/background.webp");
+    background-color: #bcd4cb ;
     background-position: center;
     background-size: cover;
 }
 
 button {
     background-color: #FDFDFD;
-    color: #f0c27e;
+    color: #5e6c64;
     border: 2px solid #000;
     padding: 0.3rem 0.6rem;
     font-size: 1rem;
@@ -26,7 +26,7 @@ button {
 }
 
 button:hover {
-    background-color: #f0c27e;
+    background-color: #5e6c64;
     color: #fff;
 }
 
@@ -35,7 +35,7 @@ button:hover > i {
 }
 
 button i{
-    color: #f0c27e;
+    color: #5e6c64;
     font-weight: bold;
     pointer-events: none;
 }
@@ -101,10 +101,10 @@ input, select {
 }
 
 #search {
-    border-right: 1px solid #ccc;
+    border-right: 1px solid #ddd;
     padding-right: 1rem;
     margin-right: 1rem;
-    width: 60%;
+    width: 65%;
     display: flex;
     flex-direction: column;
 }
@@ -149,7 +149,7 @@ input, select {
 }
 
 .done{
-    background-color: #395169;
+    background-color: #5e6c64;
 }
 
 .done h3{
